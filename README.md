@@ -2,7 +2,7 @@
 
 ---
 
-My submission for the **Ubuntu** 23.04 (Lunar Lobster) wallpaper competition.
+My submissions for the **Ubuntu** 23.04 (Lunar Lobster) wallpaper competition.
 
 ---
 
