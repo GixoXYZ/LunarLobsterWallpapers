@@ -7,7 +7,6 @@ My submissions for the **Ubuntu** 23.04 (Lunar Lobster) wallpaper competition.
 ---
 
 >Images are released under CC BY-SA 4.0.
-
 >Images were made using Blender and Krita.
 
 ---
